@@ -1,1 +1,0 @@
-# 10---CS375---A6---Synchronization-and-Locks
